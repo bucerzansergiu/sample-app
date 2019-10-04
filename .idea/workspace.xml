@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e541e465-cfa3-4c0f-9232-235dd428e468" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/db/migrate/20191003132859_add_index_to_users_email.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/models/user_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/models/user_test.rb" afterDir="false" />
@@ -276,7 +277,10 @@
       <workItem from="1569995913086" duration="4277000" />
       <workItem from="1570004123471" duration="1189000" />
       <workItem from="1570010403665" duration="4038000" />
-      <workItem from="1570082367473" duration="215000" />
+      <workItem from="1570082367473" duration="1541000" />
+      <workItem from="1570096562047" duration="1910000" />
+      <workItem from="1570107066663" duration="996000" />
+      <workItem from="1570182386114" duration="306000" />
     </task>
     <servers />
   </component>
