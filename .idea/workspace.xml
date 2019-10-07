@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e541e465-cfa3-4c0f-9232-235dd428e468" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/models/user_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/models/user_test.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +25,20 @@
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="Rails sample-app: development" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Rails sample-app: development" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Rails sample-app: development" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Rails sample-app: test" type="feb32156:DbDataSourceImpl" />
       </path>
     </expand>
     <select />
@@ -297,7 +310,8 @@
       <workItem from="1570096562047" duration="1910000" />
       <workItem from="1570107066663" duration="996000" />
       <workItem from="1570182386114" duration="306000" />
-      <workItem from="1570182813250" duration="3109000" />
+      <workItem from="1570182813250" duration="3344000" />
+      <workItem from="1570430998477" duration="2221000" />
     </task>
     <servers />
   </component>
