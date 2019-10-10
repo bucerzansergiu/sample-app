@@ -68,3 +68,7 @@ gem 'rails-controller-testing', '0.0.3'
 gem 'rb-readline'
 
 gem 'bcrypt', '3.1.12'
+
+group :production do
+  gem 'pg'         #gem to use in production environment
+end
