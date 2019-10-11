@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e541e465-cfa3-4c0f-9232-235dd428e468" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/database.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -329,7 +330,7 @@
       <workItem from="1570622839925" duration="3868000" />
       <workItem from="1570686564063" duration="8154000" />
       <workItem from="1570708426022" duration="6482000" />
-      <workItem from="1570772830700" duration="961000" />
+      <workItem from="1570772830700" duration="1443000" />
     </task>
     <servers />
   </component>
