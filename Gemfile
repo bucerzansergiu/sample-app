@@ -70,6 +70,9 @@ gem 'rails-controller-testing', '0.0.3'
 gem 'rb-readline'
 
 gem 'bcrypt', '3.1.12'
+gem 'faker',  '1.7.3'
+# gem 'will_paginate',           '3.1.6'
+gem 'bootstrap-will_paginate', '1.0.0'
 
 group :production do
   gem 'pg'         #gem to use in production environment
