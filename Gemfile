@@ -66,7 +66,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 source 'https://rubygems.org'
 
 gem 'bootstrap-sass', '3.3.7'
-gem 'rails-controller-testing', '0.0.3'
+gem 'rails-controller-testing'
 gem 'rb-readline'
 
 gem 'bcrypt', '3.1.12'
